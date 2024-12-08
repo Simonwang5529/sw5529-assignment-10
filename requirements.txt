@@ -1,0 +1,8 @@
+flask
+numpy
+matplotlib
+scikit-learn
+pillow
+tqdm
+open-clip-torch 
+torch
